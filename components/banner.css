@@ -1,6 +1,6 @@
 .banner1 {
 
-	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../../images/london.jpg);
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../images/london.jpg);
 	color: rgb(243, 236, 231);
 	padding: 150px 0px;
 	background-size: cover;
@@ -21,7 +21,7 @@
 }
 
 .banner2 {
-	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.3) 50%), url(../../images/learn.jpg);
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.3) 50%), url(../images/learn.jpg);
 	display: flex;
 	padding-top: 20px;
 	padding-bottom: 20px;
@@ -35,7 +35,7 @@
 
 .banner3 {
 
-	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../../images/media.jpg);
+	background-image: linear-gradient(-225deg, rgba(0,0,0,0.9) 0%, rgba(0,0,0,0.2) 50%), url(../images/media.jpg);
 	color: rgb(243, 236, 231);
 	padding: 150px 0px;
 	background-size: cover;
