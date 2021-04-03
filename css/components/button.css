@@ -1,0 +1,35 @@
+.btn-blue {
+	margin-top: 30px;
+	background-color: #6B72E1;
+	color: white;
+	padding: 15px;
+	border-radius: 5px;
+	text-decoration: none;
+	
+	font-weight: bold;
+
+}
+.btn-blue:hover {
+	background-color: white;
+	color: black;
+	padding: 10px;
+	border-radius: 5px;
+}
+
+.media {
+
+	list-style: none;
+	padding-left: 0px;
+}
+.media li {
+	display: inline;
+	padding: 30px;
+}
+.media i {
+	font-size: 70px;
+	color: rgb(243, 236, 231);
+}
+.media i:hover {
+	font-size: 50px;
+	color: white;
+}
